@@ -1,0 +1,134 @@
+.Table {
+    margin-top: 20px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+  }
+  
+  tr:hover {
+    background-color: #f2f2f2;
+  }
+  
+  .selected {
+    background-color: #ddd;
+  }
+  /* styles.css */
+/* styles.css */
+/* styles.css */
+body {
+    background-color: #000;
+    color: #fff;
+  }
+  
+  .Header {
+    background-color: #000;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .Header h1 {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .details {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  
+  .details p {
+    flex: 1;
+    text-align: left;
+    margin: 5px;
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+  
+  
+
+/* Add more styles for other components if needed */
+/* styles.css */
+body {
+    background-color: #000;
+    color: #fff;
+  }
+  
+  .Header {
+    background-color: #000;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .Header h1 {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .Header p {
+    font-size: 1rem;
+    margin-bottom: 5px;
+  }
+  
+  .Table table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .Table th {
+    background-color: #000; /* Black background for all headers */
+    color: #fff;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .Table th:first-child {
+    background-color: #000; /* Black background for first header */
+  }
+  
+  .Table td {
+    padding: 8px;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .Table tr:hover {
+    background-color: #333; /* Darker background color on hover */
+  }
+  /* styles.css */
+body {
+    background-color: #000;
+    color: #fff;
+    font-family: Arial, sans-serif;
+  }
+  
+  .MainBlock {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .showStatisticsButton {
+    padding: 10px 20px;
+    background-color: blue;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    font-size: 1rem;
+    margin-top: 20px;
+  }
+  
